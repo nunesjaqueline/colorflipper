@@ -23,13 +23,6 @@ nav {
   width: 90vw;
 }
 
-.nav-left {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 6vw;
-}
-
 main {
   display: grid;
   place-items: center;
